@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 ## Hash Table
 |  |
