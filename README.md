@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2582-pass-the-pillow](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2582-pass-the-pillow) |
+| [2651-calculate-delayed-arrival-time](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
