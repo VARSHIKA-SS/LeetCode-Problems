@@ -20,20 +20,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
