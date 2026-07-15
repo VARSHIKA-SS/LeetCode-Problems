@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0292-nim-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
