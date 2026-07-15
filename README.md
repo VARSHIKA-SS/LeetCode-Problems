@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0263-ugly-number) |
+| [1952-three-divisors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2739-total-distance-traveled](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2739-total-distance-traveled) |
@@ -56,9 +57,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
