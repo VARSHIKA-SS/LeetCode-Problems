@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
+| [2739-total-distance-traveled](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2739-total-distance-traveled) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2739-total-distance-traveled) |
 <!---LeetCode Topics End-->
