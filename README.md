@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0292-nim-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0260-single-number-iii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
@@ -121,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
