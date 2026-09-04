@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
