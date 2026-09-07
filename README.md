@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 ## Sorting
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
