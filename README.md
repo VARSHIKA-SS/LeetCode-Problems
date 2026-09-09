@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
