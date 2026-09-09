@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [2460-apply-operations-to-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2460-apply-operations-to-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2582-pass-the-pillow](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2582-pass-the-pillow) |
 | [2739-total-distance-traveled](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2739-total-distance-traveled) |
 ## Enumeration
