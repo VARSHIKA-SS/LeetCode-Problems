@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
