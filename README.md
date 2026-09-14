@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [2460-apply-operations-to-an-array](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
