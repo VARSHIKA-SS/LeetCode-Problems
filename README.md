@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VARSHIKA-SS/LeetCode-Problems/tree/master/0268-missing-number) |
